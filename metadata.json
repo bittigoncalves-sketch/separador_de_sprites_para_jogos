@@ -1,0 +1,5 @@
+{
+  "name": "Spritesheet Slicer",
+  "description": "An intuitive tool to upload a spritesheet, define rows and columns, and slice it into individual sprites for download.",
+  "requestFramePermissions": []
+}
